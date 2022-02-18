@@ -8,4 +8,6 @@
 깃 설치
 깃 허브 가입
 tortoise git 가입
+로컬 저장소 복제 
+및 sync
 
